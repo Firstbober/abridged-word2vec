@@ -1,0 +1,5 @@
+node_modules
+*.7z
+*.tokens
+vectors*.json
+dictionary*.json
